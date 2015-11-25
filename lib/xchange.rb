@@ -1,6 +1,7 @@
 require 'bigdecimal'
 
 =begin rdoc
+
 An instance of Xchange represents an amount of a specific currency.
 
 
